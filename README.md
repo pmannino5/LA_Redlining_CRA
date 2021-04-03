@@ -1,2 +1,3 @@
 # la_redlining
-Part of a project for a class
+
+This is a python notebook with data and figures I created for a statistics class.
