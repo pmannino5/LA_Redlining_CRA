@@ -4,4 +4,4 @@ This is a python notebook with data and figures I created for a statistics class
 
 It then examines the effect of the CRA on lending in low income neighborhoods using a regression discontinuity design.
 
-Data for this notebook is available here: https://drive.google.com/drive/folders/1LpuKe5MOcZqR1AiUzIdOThmwtMRMTGm7?usp=sharing
+Data for this notebook is available here: https://drive.google.com/file/d/17G5awp9bJQib0N2NHPOvHQEfrixNCYip/view?usp=sharing
