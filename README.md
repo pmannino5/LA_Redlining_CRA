@@ -1,4 +1,4 @@
-# LA Redlining & CRA
+# LA Redlining & CRA 
 
 This is a python notebook with data and figures I created for a project. It charts the history of redlined neighborhoods in LA and examines the relationship between historical redlining and homeownership today.
 
